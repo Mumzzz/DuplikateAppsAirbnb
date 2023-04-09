@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+      android:icon="@drawable/baseline_home_24"
+      android:id="@+id/nav_beranda"/>
+
+    <item android:title="Pesanan"
+        android:icon="@drawable/baseline_mark_email_unread_24"
+        android:id="@+id/nav_email"/>
+
+    <item android:title="Perjalanan"
+        android:icon="@drawable/baseline_snowshoeing_24"
+        android:id="@+id/nav_live"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/baseline_person_24"
+        android:id="@+id/nav_saya"/>
+
+</menu>
